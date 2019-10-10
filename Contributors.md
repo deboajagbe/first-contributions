@@ -8,6 +8,7 @@
 - [Mayank Singh Chaudhary](https://github.com/MayankSingh1993)
 - [lxp](https://github.com/pylxp)
 - [Shekhar Shukla]
+- [Avijit Mondal](https://github.com/avijitmondal)
 - [Saksham Sneh Mandal](https://github.com/sakshamsneh)
 - [Amit Joseph](https://github.com/amitjoseph)
 - [Suraj Kumar Jha](https://github.com/hyphen-suraj)
@@ -4537,6 +4538,7 @@ Stephan Sharpe
 - [nuntjw](https://github.com/nuntjw)
 - [Anoop P](https://github.com/Anooppandikashala)
 - Manu
+- [Stefan Gal](https://github.com/stefangal)
 - [James Bowler](https://github.com/jimuk07)
 - [Karan Kumar G](https://github.com/spielerr)
 - [w5bh](https://github.com/w5bh)
@@ -17237,3 +17239,4 @@ rehan
 - [Jasdeep kaur](https://www.linkedin.com/in/jasdeep-kaur-mica/)
 - [Andres Carrasco](https://github.com/sadpvndv)
 - [Sandro Mirianashvili](https://github.com/mirianashvili)
+- [Ahmad Shiddiq](https://github.com/AhmadShiddiq)
